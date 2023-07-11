@@ -1,0 +1,67 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
+    text-shadow:  5px 5px 5px rgb(0, 0, 0);
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    text-shadow:  5px 5px 5px rgb(0, 0, 0);
+}
+#start, #status
+{
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+    text-shadow:  5px 5px 5px rgb(0, 0, 0);
+}
+.copy_right_footer
+{
+    position: fixed;
+    line-height: 4;
+    text-align: center;
+    background-color: grey;
+    width: 100%;
+    bottom: 0;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+    color: rgb(249, 249, 242);
+    text-shadow: 3px 3px 10px black;
+    letter-spacing: 3px;
+    font-size: 17px;
+}
+li
+{
+    font-size: 25px;
+    text-align: left;
+    font-family: 'Caveat', cursive;
+    letter-spacing: 2px;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
+#restart
+{
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    text-shadow:  5px 5px 5px rgb(0, 0, 0);
+}
+.modal-dialog
+{
+    width: 70%;
+}
